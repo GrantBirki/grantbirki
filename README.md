@@ -11,11 +11,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/grantbirki/fastly-to-insights"><b>Fastly to Insights</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/fastly-to-insights?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/fastly-to-insights?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/fastly-to-insights?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/fastly-to-insights?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/grantbirki/fastly-tempo"><b>Fastly Tempo</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
