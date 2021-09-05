@@ -55,6 +55,34 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/errbot-launchpad"><b>errbot-launchpad</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/dark-flask"><b>dark-flask</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/dark-flask?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/dark-flask?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/dark-flask?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/dark-flask?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/fastly-framework"><b>fastly-framework</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
