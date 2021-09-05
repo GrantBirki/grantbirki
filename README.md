@@ -3,6 +3,8 @@
 <p align="center">
   Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/github">@GitHub</a>.
   <br>
+  I love to build new things, learn new things, support the opensource community and have fun along the way.
+  <br>
   <br>
   🔭 I'm currently working on: Automation, security, containers, and all things chatops
   <br>
@@ -69,5 +71,19 @@
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=grantbirki&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs"/>
   <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grantbirki&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grantbirki&theme=tokyonight"/>
+</p>
+
+
+<h2 align="center">Kermits 🐸</h3>
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/23362539/132116620-efb6ca67-4e70-4a80-9c15-a64d65f2250b.gif"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/23362539/132116712-792b3fe2-d3ed-484f-b35a-462f6e483dbc.gif"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/23362539/132116706-74b80782-ec72-4dba-a88d-e81489f49d5e.gif"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/23362539/132116708-36cfc756-d354-4ff8-ba40-537f8cf4ff0e.gif"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/23362539/132116710-bfdfe9e5-8208-4238-a3e0-d254ea96dcaa.gif"/>
 </p>
