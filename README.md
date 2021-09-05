@@ -1,3 +1,14 @@
+<h1 align="center">@GrantBirki</h3>
+
+<p align="center">
+  Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/github">@GitHub</a>.
+  <br>
+  <br>
+  🔭 I'm currently working on: Automation, security, containers, and all things chatops
+  <br>
+  🌱 I'm currently learning: Ruby and working on my OSCP
+</p>
+
 <h2 align="center">Things I code with 💻</h3>
 <p align="center">
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
