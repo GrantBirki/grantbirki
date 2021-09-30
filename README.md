@@ -83,6 +83,20 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/k8s-discord"><b>k8s-discord</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/k8s-discord"><b>k8s-kong-terraform</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
