@@ -3,10 +3,10 @@
 <p align="center">
   Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/github">@GitHub</a>.
   <br>
-  I love to build new things, learn new things, support the opensource community and have fun along the way.
+  I love to build, learn, support the opensource community, and have fun along the way.
   <br>
   <br>
-  🔭 I'm currently working on: Automation, security, containers, and all things chatops
+  🔭 I'm currently working on: Automation, security, containers (k8s), and all things chatops
   <br>
   🌱 I'm currently learning: Ruby and working on my OSCP
 </p>
