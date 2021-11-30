@@ -3,12 +3,16 @@
 <p align="center">
   Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/github">@GitHub</a>.
   <br>
-  I love to build, learn, support the opensource community, and have fun along the way.
+  Previously, I was a security engineer working on the CDN and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
   🔭 I'm currently working on: Automation, security, containers (k8s), and all things chatops
   <br>
   🌱 I'm currently learning: Ruby and working on my OSCP
+  <br>
+  <br>
+  I love to build, learn, support the opensource community, and have fun along the way. ❤️:octocat:
+  <br>
 </p>
 
 <h2 align="center">Open source projects ⭐</h3>
