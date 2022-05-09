@@ -11,7 +11,7 @@
   🌱 I'm currently learning: Ruby and working on my OSCP
   <br>
   <br>
-  I love to build, learn, support the opensource community, and have fun along the way. ❤️:octocat:
+  I love to build, learn, support the open source community, and have fun along the way. ❤️:octocat:
   <br>
 </p>
 
@@ -42,32 +42,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GrantBirki/errbot-launchpad"><b>errbot-launchpad</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/errbot-launchpad?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/iancaragol/Feyre"><b>Feyre</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GrantBirki/fastly-framework"><b>fastly-framework</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/fastly-framework?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GrantBirki/k8s-discord"><b>k8s-discord</b></a></td>
@@ -82,6 +61,27 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/branch-deploy"><b>branch-deploy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/cah-generator"><b>cah-generator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
