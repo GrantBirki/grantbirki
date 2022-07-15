@@ -6,9 +6,11 @@
   Previously, I was a security engineer working on the CDN and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
-  🔭 I'm currently working on: Automation, security, containers (k8s), and all things chatops
+  🔭 I'm currently working on: Automation, security, containers (k8s), several open source projects, and all things chatops
   <br>
-  🌱 I'm currently learning: Ruby and working on my OSCP
+  🌱 I'm currently learning: Go, React, JS, and custom GitHub Actions
+  <br>
+  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a>
   <br>
   <br>
   I love to build, learn, support the open source community, and have fun along the way. ❤️:octocat:
@@ -27,6 +29,34 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/the-hideout/tarkov-dev"><b>tarkov-dev</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/github/branch-deploy"><b>branch-deploy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/the-hideout/tarkov-api"><b>tarkov-api</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/the-hideout/stash"><b>stash</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/grantbirki/fastly-tempo"><b>Fastly Tempo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
@@ -49,27 +79,6 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GrantBirki/k8s-discord"><b>k8s-discord</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/k8s-discord?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GrantBirki/k8s-kong-terraform"><b>k8s-kong-terraform</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GrantBirki/branch-deploy"><b>branch-deploy</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
@@ -82,6 +91,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/k8s-kong-terraform"><b>k8s-kong-terraform</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
