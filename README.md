@@ -113,7 +113,7 @@
 
 <h2 align="center">Stats 📊</h3>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=grantbirki&count_private=true&show_icons=true&theme=tokyonight&hide=issues,prs"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=grantbirki&count_private=true&show_icons=true&theme=tokyonight"/>
   <br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grantbirki&theme=tokyonight"/>
 </p>
