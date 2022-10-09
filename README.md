@@ -23,81 +23,48 @@
     <tr border: none;>
       <td><b>🛠 Projects</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>🍴 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/the-hideout/tarkov-dev"><b>tarkov-dev</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/github/branch-deploy"><b>branch-deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/the-hideout/tarkov-api"><b>tarkov-api</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/the-hideout/stash"><b>stash</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/grantbirki/fastly-tempo"><b>Fastly Tempo</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/fastly-tempo?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/grantbirki/errbot"><b>errbot</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/iancaragol/Feyre"><b>Feyre</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GrantBirki/cah-generator"><b>cah-generator</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GrantBirki/k8s-kong-terraform"><b>k8s-kong-terraform</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
