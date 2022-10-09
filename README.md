@@ -51,20 +51,12 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/iancaragol/Feyre"><b>Feyre</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/iancaragol/Feyre?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GrantBirki/cah-generator"><b>cah-generator</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/cah-generator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GrantBirki/k8s-kong-terraform"><b>k8s-kong-terraform</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/GrantBirki/k8s-kong-terraform?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
