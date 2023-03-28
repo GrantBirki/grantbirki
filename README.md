@@ -3,14 +3,14 @@
 <p align="center">
   Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/github">@GitHub</a>.
   <br>
-  Previously, I was a security engineer working on the CDN and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
+  Previously, I was a security engineer working on CDNs and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
-  🔭 I'm currently working on: Automation, security, containers (k8s), several open source projects, and all things chatops
+  🔭 I'm currently working on: Automation, security, containers (k8s), several open source projects, public Actions workflows, and all things chatops
   <br>
   🌱 I'm currently learning: Go, React, JS, and custom GitHub Actions
   <br>
-  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a>
+  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a>
   <br>
   <br>
   I love to build, learn, support the open source community, and have fun along the way. ❤️:octocat:
@@ -27,20 +27,48 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/the-hideout/tarkov-dev"><b>tarkov-dev</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/github/branch-deploy"><b>branch-deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/github/combine-prs"><b>combine-prs</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/github/combine-prs?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/the-hideout/tarkov-api"><b>tarkov-api</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-api?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/the-hideout/tarkov-dev"><b>tarkov-dev</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/tarkov-dev?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/the-hideout/stash"><b>stash</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/grantbirki/ghtrending"><b>ghtrending</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/ghtrending?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/grantbirki/auditor-action"><b>auditor-action</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/auditor-action?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/grantbirki/git-diff-action"><b>git-diff-action</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/git-diff-action?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/grantbirki/json-yaml-validate"><b>json-yaml-validate</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/json-yaml-validate?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/grantbirki/issue-template-parser"><b>issue-template-parser</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/issue-template-parser?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/grantbirki/comment"><b>comment</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/comment?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/grantbirki/fastly-tempo"><b>Fastly Tempo</b></a></td>
