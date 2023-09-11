@@ -6,9 +6,9 @@
   Previously, I was a security engineer working on CDNs and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
-  🔭 I'm currently working on: Automation, security, containers (k8s), several open source projects, public Actions workflows, and all things chatops
+  🔭 I'm currently working on: Automation, security, devops, several open source projects, public Actions workflows, and all things chatops
   <br>
-  🌱 I'm currently learning: Go, React, JS, and custom GitHub Actions
+  🌱 I'm currently learning: Rust, React, JS, and custom GitHub Actions
   <br>
   🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a>
   <br>
