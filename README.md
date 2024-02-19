@@ -1,14 +1,16 @@
 <h1 align="center">@GrantBirki</h3>
 
 <p align="center">
-  Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/github">@GitHub</a>.
+  Hello! My name is Grant and I am a Senior Security Engineer at <a href="https://github.com/github">@GitHub</a>.
   <br>
   Previously, I was a security engineer working on CDNs and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
   🔭 I'm currently working on: Automation, security, devops, several open source projects, public Actions workflows, and all things chatops
   <br>
-  🌱 I'm currently learning: Rust, React, JS, and custom GitHub Actions
+  🌱 I'm currently learning: Rust, JS, and custom GitHub Actions
+  <br>
+  💎 I love Ruby and even maintain a few open source libraries (Gems)
   <br>
   🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a>
   <br>
