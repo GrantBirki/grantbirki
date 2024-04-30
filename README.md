@@ -6,16 +6,17 @@
   Previously, I was a security engineer working on CDNs and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
-  🔭 I'm currently working on: Automation, security, devops, several open source projects, public Actions workflows, and all things chatops
+  🔭 I'm currently working on: Automation, security, devops, several open source projects, public Actions workflows, deployment controllers, self-hosted projects, and all things chatops
   <br>
-  🌱 I'm currently learning: Rust, JS, and custom GitHub Actions
+  🌱 I'm currently learning: Crystal, JS, new deployment patterns, and custom GitHub Actions
   <br>
-  💎 I love Ruby and even maintain a few open source libraries (Gems)
+  💎 I love Ruby + Crystal and even maintain a few open source libraries (Gems / Shards)
   <br>
-  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a>
+  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwayapp/runway">runwayapp/runway</a>
   <br>
+  🚀 I created <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwayapp/runway">runwayapp/runway</a> to help everyone ship faster and with ease.
   <br>
-  I love to build, learn, support the open source community, and have fun along the way. ❤️:octocat:
+  I love to build, learn, support the open source community, and have fun along the way. ❤️
   <br>
 </p>
 
@@ -31,6 +32,10 @@
     <tr>
       <td><a href="https://github.com/github/branch-deploy"><b>branch-deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/runwayapp/runway"><b>runway</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/runwayapp/runway?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/github/combine-prs"><b>combine-prs</b></a></td>
