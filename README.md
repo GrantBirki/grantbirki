@@ -12,9 +12,9 @@
   <br>
   💎 I love Ruby + Crystal and even maintain a few open source libraries (Gems / Shards)
   <br>
-  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwayapp/runway">runwayapp/runway</a>
+  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwaylab/runway">runwayapp/runway</a>
   <br>
-  🚀 I created <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwayapp/runway">runwayapp/runway</a> to help everyone ship faster and with ease.
+  🚀 I created <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwaylab/runway">runwaylab/runway</a> to help everyone ship faster and with ease.
   <br>
   I love to build, learn, support the open source community, and have fun along the way. ❤️
   <br>
