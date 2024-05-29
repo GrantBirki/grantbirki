@@ -38,6 +38,10 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/runwayapp/runway?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/github/command"><b>command</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/github/command?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/github/combine-prs"><b>combine-prs</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/combine-prs?style=flat-square&labelColor=343b41"/></td>
     </tr>
