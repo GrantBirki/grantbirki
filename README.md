@@ -21,6 +21,11 @@
 </p>
 
 <h2 align="center">Open source projects ⭐</h3>
+
+<p align="center">
+Here are a few of the open source projects I have created or help to maintain:
+</p>
+
 <table align="center">
   <thead align="center">
     <tr border: none;>
@@ -58,8 +63,24 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/the-hideout/stash?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/octokit-cr/octokit.cr"><b>octokit.cr</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/octokit-cr/octokit.cr?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/grantbirki/ghtrending"><b>ghtrending</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/ghtrending?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GrantBirki/caddy-fastapi"><b>caddy-fastapi</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/caddy-fastapi?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/runwaylab/issue-db"><b>issue-db</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/runwaylab/issue-db?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kemalcr/kemal-hmac"><b>kemal-hmac</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/kemalcr/kemal-hmac?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/grantbirki/auditor-action"><b>auditor-action</b></a></td>
