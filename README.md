@@ -39,6 +39,10 @@ Here are a few of the open source projects I have created or help to maintain:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/github/entitlements-app"><b>entitlements-app</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/github/entitlements-app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/runwayapp/runway"><b>runway</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/runwayapp/runway?style=flat-square&labelColor=343b41"/></td>
     </tr>
