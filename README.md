@@ -6,15 +6,15 @@
   Previously, I was a security engineer working on CDNs and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   <br>
-  🔭 I'm currently working on: Automation, security, devops, several open source projects, public Actions workflows, deployment controllers, self-hosted projects, and all things chatops
+  🔭 I'm currently working on: Automation, security, devops, a ton of open source projects, public Actions workflows, deployment systems, self-hosted projects, and all things chatops.
   <br>
-  🌱 I'm currently learning: Crystal, JS, new deployment patterns, and custom GitHub Actions
+  🌱 I'm currently learning: Rust/GoLang, new deployment patterns, novel production access controls, and custom GitHub Actions.
   <br>
-  💎 I love Ruby + Crystal and even maintain a few open source libraries (Gems / Shards)
+  💎 I love Ruby maintain quite a few open source libraries (Gems).
   <br>
-  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a> and <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwaylab/runway">runwaylab/runway</a>
+  🧑‍🔬 A core contributor for <a href="https://github.com/the-hideout">the-hideout</a>, <a href="https://github.com/github/branch-deploy">github/branch-deploy</a>, <a href="https://github.com/runwaylab/runway">runwaylab/runway</a>, and <a href="https://github.com/github/entitlements-app">github/entitlements-app</a>.
   <br>
-  🚀 I created <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> and <a href="https://github.com/runwaylab/runway">runwaylab/runway</a> to help everyone ship faster and with ease.
+  🚀 I created <a href="https://github.com/github/branch-deploy">github/branch-deploy</a> to help everyone ship faster and with ease.
   <br>
   I love to build, learn, support the open source community, and have fun along the way. ❤️
   <br>
@@ -53,6 +53,10 @@ Here are a few of the open source projects I have created or help to maintain:
     <tr>
       <td><a href="https://github.com/github/combine-prs"><b>combine-prs</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/combine-prs?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/github/gh-combine"><b>gh-combine</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/github/gh-combine?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/the-hideout/tarkov-api"><b>tarkov-api</b></a></td>
