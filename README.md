@@ -35,27 +35,31 @@ Here are a few of the open source projects I have created or help to maintain:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/github/branch-deploy"><b>branch-deploy</b></a></td>
+      <td><a href="https://github.com/github/branch-deploy"><b>github/branch-deploy</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/branch-deploy?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/github/entitlements-app"><b>entitlements-app</b></a></td>
+      <td><a href="https://github.com/github/entitlements-app"><b>github/entitlements-app</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/entitlements-app?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/runwayapp/runway"><b>runway</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/runwayapp/runway?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/github/hooks"><b>github/hooks</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/github/hooks?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/github/command"><b>command</b></a></td>
+      <td><a href="https://github.com/runwaylab/runway"><b>runwaylab/runway</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/runwaylab/runway?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/github/command"><b>github/command</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/command?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/github/combine-prs"><b>combine-prs</b></a></td>
+      <td><a href="https://github.com/github/combine-prs"><b>github/combine-prs</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/combine-prs?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/github/gh-combine"><b>gh-combine</b></a></td>
+      <td><a href="https://github.com/github/gh-combine"><b>github/gh-combine</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/github/gh-combine?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
