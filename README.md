@@ -8,7 +8,7 @@
   <br>
   🔭 I'm currently working on: Automation, security, devops, a ton of open source projects, public Actions workflows, deployment systems, self-hosted projects, and all things chatops.
   <br>
-  🌱 I'm currently learning: Rust/GoLang, new deployment patterns, novel production access controls, and custom GitHub Actions.
+  🌱 I'm currently learning: GoLang, new deployment patterns, novel production access controls, and custom GitHub Actions.
   <br>
   💎 I love Ruby maintain quite a few open source libraries (Gems).
   <br>
@@ -141,11 +141,4 @@ Here are a few of the open source projects I have created or help to maintain:
   <a href="https://www.linkedin.com/in/grantbirkinbine" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://birki.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://birki.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=icloud&logoColor=white" /></a>
-</p>
-
-<h2 align="center">Stats 📊</h3>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=grantbirki&count_private=true&show_icons=true&theme=tokyonight"/>
-  <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=grantbirki&theme=tokyonight"/>
 </p>
