@@ -5,6 +5,7 @@
   <br>
   Previously, I was a senior security engineer <a href="https://github.com/github">@GitHub</a> and before that, I was a security engineer at <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
+  <br>
   🔭 I'm currently working on: Automation, security, devops, a ton of open source projects, public Actions workflows, deployment systems, self-hosted projects, and all things chatops.
   <br>
   🌱 I'm currently learning: GoLang, new deployment patterns, novel production access controls, and custom GitHub Actions.
