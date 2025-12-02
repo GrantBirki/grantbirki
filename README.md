@@ -1,10 +1,9 @@
 <h1 align="center">@GrantBirki</h3>
 
 <p align="center">
-  Hello! My name is Grant and I am a Senior Security Engineer at <a href="https://github.com/github">@GitHub</a>.
+  Hello! My name is Grant and I am a Security Engineer at <a href="https://github.com/openai">@OpenAI</a>.
   <br>
-  Previously, I was a security engineer working on CDNs and deployment pipelines for <a href="https://github.com/Nordstrom">@Nordstrom</a>.
-  <br>
+  Previously, I was a senior security engineer <a href="https://github.com/github">@GitHub</a> and before that, I was a security engineer at <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
   🔭 I'm currently working on: Automation, security, devops, a ton of open source projects, public Actions workflows, deployment systems, self-hosted projects, and all things chatops.
   <br>
