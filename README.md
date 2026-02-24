@@ -5,10 +5,7 @@
   <br>
   Previously, I was a senior security engineer <a href="https://github.com/github">@GitHub</a> and before that, I was a security engineer at <a href="https://github.com/Nordstrom">@Nordstrom</a>.
   <br>
-  <br>
-  🔭 I'm currently working on: Automation, security, devops, a ton of open source projects, public Actions workflows, deployment systems, self-hosted projects, and all things chatops.
-  <br>
-  🌱 I'm currently learning: GoLang, new deployment patterns, novel production access controls, and custom GitHub Actions.
+  🌱 I'm currently helping to secure the people, processes, and systems around frontier AI models.
   <br>
   💎 I love Ruby maintain quite a few open source libraries (Gems).
   <br>
@@ -121,10 +118,6 @@ Here are a few of the open source projects I have created or help to maintain:
     <tr>
       <td><a href="https://github.com/grantbirki/errbot"><b>errbot</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/errbot?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/GrantBirki/upgraded-waffle"><b>upgraded-waffle</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/grantbirki/upgraded-waffle?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/GrantBirki/cah-generator"><b>cah-generator</b></a></td>
